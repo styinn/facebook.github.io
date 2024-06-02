@@ -9,8 +9,9 @@
 }
 
 .carousel__slide {
-  width: 33.33%;
+  width: 34%;
   padding: 3px;
+  margin: 4px;
   position: relative;
 }
 
